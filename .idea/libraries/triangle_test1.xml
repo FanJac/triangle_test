@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="triangle-test1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/triangle-test/out/artifacts/triangle_test_jar/triangle-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
